@@ -8,3 +8,5 @@ if current_time.even?
 else
   puts "Odd!"
 end
+
+current_time
